@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Aarush Gupta"
+name = "Aniruddha Mahapatra"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -25,8 +25,9 @@ email = ""
 interests = [
   "Deep Learning",
   "Computer Vision",
-  "Reinforcement Learning",
-  "Natural Language Processing"
+  "Natural Language Processing",
+  "Digital Geometry",
+  "Algorithms"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -47,22 +48,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:agupta1@cs.iitr.ac.in"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:amahapatra@cs.iitr.ac.in"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/c414driu5"
+  link = "https://twitter.com/AniruddhaMahap3"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.in/citations?user=_oaol88AAAAJ&hl=en"
+  link = "https://scholar.google.com/citations?user=p8Hdn7gAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/aarushgupta"
+  link = "https://github.com/anime26398"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
