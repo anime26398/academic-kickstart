@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -19,33 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "IUSSTF"
+  organization_url = "https://www.iusstf.org/"
+  title = "SN Bose Scholarship Awardee"
+  url = "https://www.iusstf.org/program/sn-bose-scholars-program"
+  certificate_url = ""
+  date_start = "2019-04-01"
   date_end = ""
-  description = ""
+  description = """ 
+Recipient of the SN Bose scholarship, which aims to nurture future innovators and thought leaders. Joint initiative by the 
+
+* Science & Engineering Board (SERB)
+* Department of Science and Technology (DST)
+* Govt. of India, the Indo-U.S. Science and Technology Forum (IUSSTF)
+* WINStep Forward
+
+to develop a dynamic and transformative student exchange program between premier institutions in India and the United States."""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "JEE Advanced 2016"
+  organization_url = ""
+  title = "All India Rank 363"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """
+* Achieved a rank of 363 out of 200,000 candidates.
+* JEE Advanced is an entrance exam to get an admit into IITs, the premier engineering institutes in India, with a selection percentage of only 5%. 
+"""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Goverment of India"
+  organization_url = ""
+  title = "KVPY Fellowship Awardee"
+  url = "http://kvpy.iisc.ernet.in/main/about.htm"
+  certificate_url = ""
+  date_start = "2014-05-01"
+  date_end = ""
+  description = """A highly prestigious National Fellowship awarded by Indian Institute of
+Science and Government of INDIA to students who show high aptitude in research."""
+
 
 +++
