@@ -16,16 +16,19 @@ weight = 30
 
 +++
 
--   **December 2019**: Joining **Rephrase.ai** for the winter. Here's a [cool video](https://www.youtube.com/watch?v=dP5i3E8od4M) about their work.
+-   **October 2019**:
+    Our paper "Unsupervised Domain Adaptation for Remote Sensing Images Using Metric
+	Learning and Correlation Alignment" has been accepted for publication and an oral at **NCVPRIPG 2019**!
 
--   **April 2019**:
-    Awarded the **SN Bose Scholarship**! Will be visiting **Prof. Hanspeter Pfister** at Harvard University over the summers.
+-   **September 2019**:
+    Recieved offer from Adobe to wprk as full time researcher at **Adobe Big Data Labs**, Bangalore.
 
--   **November 2018**:
-    Accepted as a research intern at Video Analytics Lab, IISc! Will be visiting **Prof. R. Venkatesh Babu** over the winters.
+-   **March 2019**:
+    Our paper "Assessment of Sentinel-1 and Sentinel-2 Satellite Imagery for Crop Classification
+	in Indian Region During Kharif and Rabi Crop Cycles" has been accepted for publication at **IEEE IGARSS 2019**!
 
 -   **August 2018**:
-    Our paper "An Attention Model for Group Level Emotion Recognition" has been accepted at **ICMI 2018**!
+    Accepted as a research intern at **Adobe Big Data Labs**, Bangalore for summer 2019!
 
 -   **April 2018**:
-    Excited to work with **Prof. Marco Pedersoli** and **Prof. Jose Dolz** over the summers!
+    Excited to work with **Prof. Biplab Banerjee** and **IBM Research Labs, India** over the summers!
