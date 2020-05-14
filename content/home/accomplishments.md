@@ -19,33 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "IUSSTF"
-  organization_url = "https://www.iusstf.org/"
-  title = "SN Bose Scholarship Awardee"
-  url = "https://www.iusstf.org/program/sn-bose-scholars-program"
-  certificate_url = ""
-  date_start = "2019-04-01"
-  date_end = ""
-  description = """ 
-Recipient of the SN Bose scholarship, which aims to nurture future innovators and thought leaders. Joint initiative by the 
-
-* Science & Engineering Board (SERB)
-* Department of Science and Technology (DST)
-* Govt. of India, the Indo-U.S. Science and Technology Forum (IUSSTF)
-* WINStep Forward
-
-to develop a dynamic and transformative student exchange program between premier institutions in India and the United States."""
-
-[[item]]
   organization = "JEE Advanced 2016"
   organization_url = ""
-  title = "All India Rank 363"
+  title = "All India Rank 16"
   url = ""
   certificate_url = ""
   date_start = "2016-06-01"
   date_end = ""
   description = """
-* Achieved a rank of 363 out of 200,000 candidates.
+* Achieved a rank of 1683 out of 200,000 candidates.
 * JEE Advanced is an entrance exam to get an admit into IITs, the premier engineering institutes in India, with a selection percentage of only 5%. 
 """
   
@@ -55,7 +37,7 @@ to develop a dynamic and transformative student exchange program between premier
   title = "KVPY Fellowship Awardee"
   url = "http://kvpy.iisc.ernet.in/main/about.htm"
   certificate_url = ""
-  date_start = "2014-05-01"
+  date_start = "2016-05-01"
   date_end = ""
   description = """A highly prestigious National Fellowship awarded by Indian Institute of
 Science and Government of INDIA to students who show high aptitude in research."""
