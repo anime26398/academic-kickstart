@@ -23,7 +23,7 @@ weight = 30
 -   **September 2019**:
     Recieved offer from Adobe to wprk as full time researcher at **Adobe Big Data Labs**, Bangalore.
 
--   **March 2019**:
+-   **April 2019**:
     Our paper "Assessment of Sentinel-1 and Sentinel-2 Satellite Imagery for Crop Classification
 	in Indian Region During Kharif and Rabi Crop Cycles" has been accepted for publication at **IEEE IGARSS 2019**!
 
