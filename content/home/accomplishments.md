@@ -32,14 +32,14 @@ date_format = "Jan 2006"
 """
   
 [[item]]
-  organization = "Goverment of India"
+  organization = "Government of India"
   organization_url = ""
   title = "KVPY Fellowship Awardee"
   url = "http://kvpy.iisc.ernet.in/main/about.htm"
   certificate_url = ""
   date_start = "2016-05-01"
   date_end = ""
-  description = """A highly prestigious National Fellowship awarded by Indian Institute of
+  description = """A highly prestigious National Fellowship awarded by the Indian Institute of
 Science and Government of INDIA to students who show high aptitude in research."""
 
 

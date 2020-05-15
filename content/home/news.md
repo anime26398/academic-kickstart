@@ -21,7 +21,7 @@ weight = 30
 	Learning and Correlation Alignment" has been accepted for publication and an oral at **NCVPRIPG 2019**!
 
 -   **September 2019**:
-    Recieved offer from Adobe to wprk as full time researcher at **Adobe Big Data Labs**, Bangalore.
+    Received offer from Adobe to work as a full-time time researcher at **Adobe Big Data Labs**, Bangalore.
 
 -   **April 2019**:
     Our paper "Assessment of Sentinel-1 and Sentinel-2 Satellite Imagery for Crop Classification
